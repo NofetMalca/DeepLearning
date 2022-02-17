@@ -1,5 +1,5 @@
 # DeepLearning
-In the project we were required to create a system for deep learning of recognizing 7 fonts for English letters and signs. I chose for this purpose to create my own model, and not to take an existing model in order to get to know the layers of the model better, and not to take something finished. I chose to work in Google Colab because I do not have a powerful video card in my computer.
+In the project we were required to create a system for deep learning of recognizing 7 fonts for English letters and signs. I chose for this purpose to create my own model.        I chose to work in Google Colab because I do not have a powerful video card in my computer.
 
 #For running the TEST:
 Download the model and weights from the link below (final_model.json), (final_model.h5):

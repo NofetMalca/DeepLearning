@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning- recognizing fonts
 In the project we were required to create a system for deep learning of recognizing 7 fonts for English letters and signs. I chose for this purpose to create my own model.        I chose to work in Google Colab because I do not have a powerful video card in my computer.
 
 #For running the TEST:
